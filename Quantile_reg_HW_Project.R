@@ -1,4 +1,4 @@
-quant_data=read.table("C:/Users/sagar/R_working_directory/Quantile_regression_homework/swd.txt", sep=",",header=T)
+quant_data=read.table("......./swd.txt", sep=",",header=T)
 
 #install.packages("quantreg")
 library(quantreg)
